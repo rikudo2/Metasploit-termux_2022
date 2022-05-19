@@ -1,9 +1,10 @@
 # Metasploit-termux_2022
-Just follow the script/Le script va vous guider
+<head>Just follow the script ||  Le script va vous guider</head>
 <br>
-Copy and past in your terminal / copier et coller dans votre terminal
-source <(curl -fsSl https://raw.githubusercontent.com/rikudo2/Metasploit-termux_2022/main/metasploit6.sh)
-
+<head>Copy and past in your terminal  ||  copier et coller dans votre terminal</head>
+  </br>
+<br>
+<head>👉 git clone https://github.com/rikudo2/Metasploit-termux_2022.git </head>
 </br>
 
 
