@@ -15,8 +15,8 @@ White='\033[0;37m'
 clear
 echo -e "
                 
-      SCRIPT BY |D|E|D|S|H|I|T| EDITED BY |E|L|-|T|C|A|B|O|@F-society
-                  ${Green}[ ${Yellow}t.me/fsociety92k${clear} ${Green}]${clear}
+  SCRIPT BY |D|E|D|S|H|I|T| EDITED BY |E|L|-|T|C|A|B|O|@F-society
+     ${Green}[ ${Yellow}t.me/fsociety92k${clear} ${Green}]${clear}
 "
 echo -e "[${Green}+${clear}] Cette fois, vous avez plus besoin nettoyer votre termux..."
 sleep 1
